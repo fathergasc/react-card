@@ -8,7 +8,7 @@ import Interests from './components/Interests';
 
 function App() {
   return (
-    <div>
+    <div className='card'>
       <Info/>
       <About/>
       <Interests/>
