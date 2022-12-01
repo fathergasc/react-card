@@ -1,6 +1,7 @@
 body {
+    font-family: 'Inter', sans-serif;
     padding: 1rem;
-    background-color: black;
+    background-color: #23252C;
     display: flex;
     justify-content: center;
     align-items: center;

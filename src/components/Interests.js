@@ -2,6 +2,9 @@ import React from "react";
 
 export default function Interests() {
     return (
-        <h1>interests</h1>
+        <div className="about-interests">
+            <h3>Interests</h3>
+             <p>Food expert. Music scholar. Reader. Internet fanatic. Bacon buff. Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.</p>
+        </div>
     )
 }
